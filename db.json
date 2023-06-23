@@ -1,0 +1,141 @@
+{
+    "upcoming_actions":[
+       {
+          "id":1,
+          "body":"File taxes",
+          "deadline":"2023-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":2,
+          "body":"Buy groceries",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":3,
+          "body":"Pay rent",
+          "deadline":"2021-07-02T00:00:00"
+       },
+       {
+          "id":4,
+          "body":"Call mom",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":5,
+          "body":"Send birthday card to mom",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":6,
+          "body":"Buy groceries",
+          "deadline":"2021-07-02T00:00:00"
+       },
+       {
+          "id":7,
+          "body":"Pay rent",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"5"
+       },
+       {
+          "id":8,
+          "body":"Call mom",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":9,
+          "body":"Send birthday card to mom",
+          "deadline":"2021-07-02T00:00:00"
+       },
+       {
+          "id":10,
+          "body":"Buy groceries",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"4"
+       },
+       {
+          "id":11,
+          "body":"Pay rent",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":12,
+          "body":"Call mom",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":13,
+          "body":"Send birthday card to mom",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"4"
+       },
+       {
+          "id":14,
+          "body":"Buy groceries",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       },
+       {
+          "id":15,
+          "body":"Pay rent",
+          "deadline":"2021-07-02T00:00:00",
+          "scanned_document":"2"
+       }
+    ],
+    "scanned_documents":[
+       {
+          "id":1,
+          "title":"Driver's License",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":2,
+          "title":"Passport",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":3,
+          "title":"Birth Certificate",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":4,
+          "title":"Social Security Card",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":5,
+          "title":"Marriage Certificate",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":6,
+          "title":"Divorce Certificate",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":7,
+          "title":"Death Certificate",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       },
+       {
+          "id":8,
+          "title":"Will",
+          "file":"https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
+          "date":"2021-07-02T00:00:00"
+       }
+    ]
+ }
